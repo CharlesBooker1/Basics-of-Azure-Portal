@@ -59,7 +59,7 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
     </ul>
     <li>After validation passed, click on <b>Create</b> in the bottom and your Resource Group is created. Note: based on server speed and Internet connection, Resources and Resource Groups will take some time to deploy, take note of the <b>notification bell</b> at the top right to see when deployment is complete</li>
     <ul>
-      <li><img src ="https://i.imgur.com/fOhUZJp" width = 80% height = 80% /></li>
+      <li><img src ="https://github.com/ColtonTrauCC/azure-portal/assets/147654000/523ad6cf-b830-4a49-9970-3d9edcf99171" width = 80% height = 80% /></li>
     </ul>
   </ul>
 </p>
