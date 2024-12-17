@@ -59,7 +59,7 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
     </ul>
     <li>After validation passed, click on <b>Create</b> in the bottom and your Resource Group is created. Note: based on server speed and Internet connection, Resources and Resource Groups will take some time to deploy, take note of the <b>notification bell</b> at the top right to see when deployment is complete</li>
     <ul>
-      <li><img src ="https://github.com/ColtonTrauCC/azure-portal/assets/147654000/523ad6cf-b830-4a49-9970-3d9edcf99171" width = 80% height = 80% /></li>
+      <li><img src ="https://i.imgur.com/zFhmFQP.png" width = 80% height = 80% /></li>
     </ul>
   </ul>
 </p>
@@ -86,7 +86,7 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
     <li>After inputting information, click on <b>Create</b> to create the resource and wait for deployment to finish</li>
     <li>Now to store data in the Storage Account, we need to create a <b>container</b> by going to the Storage Account you made and navigating to <b>Containers</b> under <b>Data Storage</b>. Click on <b>(Plus Sign) Container</b> and enter information in the window on the right</li>
     <ul>
-      <li><img src= "https://github.com/ColtonTrauCC/azure-portal/assets/147654000/ff9d532a-eb33-4a0f-a9be-709cd8a5b06b" /></li>
+      <li><img src= "https://i.imgur.com/jEJoqhr.png" /></li>
     </ul>
     <li>Through here it's self explanitory as you use the <b>Upload</b> icon in the container to upload files in selected container. If your file is a coding language or txt file, you can edit its information through Azure</li>
   </ul>
@@ -101,7 +101,7 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
     <li>If no longer used, it is best to delete Resource Groups and it Resource to prevent billing from stacking up.</li>
     <li>Head to the Resource Group and select <b>Delete</b> to open a window on the right. Deletion of the Resource Group require verification by entering its name, it's also convenient since it deletes all resources in that group</li>
     <ul>
-      <li><img src ="https://github.com/ColtonTrauCC/azure-portal/assets/147654000/6d0f216d-f7fb-4409-98d0-aa7bb4d9c7b6"/></li>
+      <li><img src ="https://i.imgur.com/Q89I6k7.png"/></li>
     </ul>
   </ul>
 </p>
