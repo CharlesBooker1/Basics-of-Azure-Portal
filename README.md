@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ColtonTrauCC/vm-network/assets/147654000/2cb238ff-4e46-4a75-8967-7ef5d124ab74" height="15%" width="15%" alt="Microsoft Azure logo"/>
+<img src="https://i.imgur.com/jkQeSNh.png" height="15%" width="15%" alt="Microsoft Azure logo"/>
 </p>
 
 <h1 align = "center">Basics of Azure Portal</h1>
