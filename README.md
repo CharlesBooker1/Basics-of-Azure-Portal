@@ -38,7 +38,7 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
       <li><b>Resources</b> - A listing that displays and updates whenever Resources (<i>Resource Groups, Virtual Machines, Network Security Groups, etc.</i>) are created or recently modified</li>
       <li><b>Navigate</b> - A quality of life heading allowing users to easily navigate to the essentials of their account, notably Resources and Subscriptions</li>
       <li><b>Tools</b> - Heading that offers quick links to the infastructure and cost of the resources used in Azure as well as the online course <b>Microsoft Learn</b> for further education how to use Microsoft Azure</li>
-      <li><img src ="https://github.com/ColtonTrauCC/azure-portal/assets/147654000/0efa1c1f-76d3-48ce-82a9-a86872e80418" width = 80% height = 80% /></li>
+      <li><img src ="https://i.imgur.com/fOhUZJp.png" width = 80% height = 80% /></li>
     </ul>
   </ul>
 </p>
